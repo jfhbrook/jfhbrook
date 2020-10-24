@@ -26,7 +26,6 @@ I'm a data engineer at an adtech company called DoubleVerify! At work I'm develo
 * How to read OCaml and Haskell code
 * How to write fiction
 * How to build mechanical keyboards
-* How to manage
 
 ```html
 - 👯 I’m looking to collaborate on ...
