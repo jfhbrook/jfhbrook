@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 ```
 
-I'm a data engineer at an adtech company called DoubleVerify! At work I'm developing brand safety products for social media platforms. At home I tend to write Python by default and JavaScript when I feel like taking a break, but I'm trying to branch out and use more fun technologoes! My resume is [here](https://github.com/resume), my Squarespace site is [here](https://www.josh.agency/), and my Twitter is [here](https://twitter.com/jfhbrook).
+I'm a data engineer at an adtech company called DoubleVerify! At work I'm developing brand safety products for social media platforms. At home I tend to write Python by default and JavaScript when I feel like taking a break, but I'm trying to branch out and use more fun technologies! My resume is [here](https://github.com/resume), my Squarespace site is [here](https://www.josh.agency/), and my Twitter is [here](https://twitter.com/jfhbrook).
 
 ```html
 - 🌱 I’m currently learning ...
