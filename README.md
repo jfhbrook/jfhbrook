@@ -37,7 +37,7 @@ I'm trying to be more of a hermit with my projects lately, but I'm always down t
 - 🤔 I’m looking for help with ...
 ```
 
-My current challenges have a lot to do with keeping other engineers productive. If you know things about that, I wouldn't mind picking your ear.
+I'm OK at the moment!
 
 ```html
 - 💬 Ask me about ...
