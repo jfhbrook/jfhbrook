@@ -8,9 +8,17 @@ are he/him.
 
 * Blog: <https://dev.to/jfhbrook>
 * Resume: <https://github.com/jfhbrook/resume>
+* LinkedIn: <https://www.linkedin.com/in/josh-holbrook-27744965/>
 * Twitter: <https://twitter.com/jfhbrook>
 
-## My Team at [Eaze](https://eaze.com) is Hiring Senior Rust Engineers!!
+## My Code
 
-* Tiktok where I talk more about the role: <https://www.tiktok.com/@jfhbrook/video/7041687140450848006>
-* Apply here: <https://jobs.lever.co/eaze/1d5e0f02-a8fd-4441-96c3-72f8af28612d>
+The portal for my open source code may be found at
+<https://github.com/jfhbrook/public>. Some things I'm currently working oo, open
+and private:
+
+1. Automating installs and updates on my machines with bash and/or ansible
+2. Emacs and Org Mode related tooling - an Emacs daemon launcher and file opener,
+   an emacs lisp parser and shortcuts
+3. Writing a "lightweight" 😉 alternative to syncthing using git and bash
+3. Assembling and hacking on my [RC2014](https://rc2014.co.uk/) z80 computer
