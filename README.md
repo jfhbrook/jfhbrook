@@ -1,6 +1,6 @@
 # hello yes this is Josh 👋
 
-Hi! I'm a staff engineer. My main languages right now are rust, python, javascript and typescript. My pronouns are he/him.
+Hi! I'm a staff engineer. My pronouns are he/they.
 
 ## Where to Find Me
 
