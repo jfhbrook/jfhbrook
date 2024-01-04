@@ -6,7 +6,7 @@ Hi! I'm a staff engineer. My pronouns are he/they.
 
 * Blog: <https://dev.to/jfhbrook>
 * Resume: <https://github.com/jfhbrook/resume>
-* LinkedIn: <https://www.linkedin.com/in/josh-holbrook-27744965/>
+* LinkedIn: <https://www.linkedin.com/in/jfhbrook/>
 * Twitter: <https://twitter.com/jfhbrook>
 
 ## My Code
