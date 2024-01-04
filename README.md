@@ -1,6 +1,6 @@
 # hello yes this is Josh 👋
 
-Hi! I'm a staff engineer. My pronouns are he/they.
+Hi! I'm a staff engineer. My pronouns are he/him.
 
 ## Where to Find Me
 
