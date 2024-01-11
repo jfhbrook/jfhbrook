@@ -8,6 +8,7 @@ Hi! I'm a staff engineer. My pronouns are he/him.
 * Resume: <https://github.com/jfhbrook/resume>
 * LinkedIn: <https://www.linkedin.com/in/jfhbrook/>
 * Twitter: <https://twitter.com/jfhbrook>
+* Mastodon: <https://oldbytes.space/@jfhbrook>
 
 ## My Code
 
